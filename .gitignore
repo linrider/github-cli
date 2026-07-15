@@ -1,0 +1,18 @@
+./idea/*
+.idea
+incoming/
+logs/
+node_modules/
+.env
+incoming/
+*.log
+.vscode/
+.env
+.envrc
+processed-files.json
+
+# editor temp files
+*~
+.*~
+*.swp
+*.swo
